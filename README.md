@@ -1,6 +1,6 @@
 # Awesome-Clinical-Decision-Support
 
-### Top Clinical Decision Support (CDS) Platforms Ecosystem
+#### Top Clinical Decision Support (CDS) Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Evidence-Based Point-of-Care Reference, Differential Diagnosis & Medication Safety*
