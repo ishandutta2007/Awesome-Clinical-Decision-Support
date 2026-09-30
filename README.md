@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Clinical-Decision-Support"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-Decision-Support?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Clinical-Decision-Support"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-Decision-Support?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Clinical-Decision-Support/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Clinical-Decision-Support?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Clinical-Decision-Support/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Clinical-Decision-Support?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ The table below summarizes commercial Clinical Decision Support (CDS) SaaS platf
 
 ## 💻 Open-Source GitHub Projects
 
-Below is a curated collection of open-source Clinical Decision Support (CDS) engines, EHR integrations, and medical AI systems, **sorted by GitHub star count (descending)**. 
+Below is a curated collection of open-source Clinical Decision Support (CDS) engines, EHR integrations, and medical AI systems, **sorted by GitHub Stars_Count (descending)**. 
 
-| Repository 📦 | Description & Key Features 🧠 | GitHub Stars ⭐ |
+| Repository 📦 | Description & Key Features 🧠 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- |
 | **[openemr/openemr](https://github.com/openemr/openemr/stargazers)** | ONC-certified open-source EHR & medical practice management system with integrated Clinical Decision Support (CDS) rules engine. | [<img src="https://img.shields.io/github/stars/openemr/openemr?style=social&color=white" alt="OpenEMR Stars"/>](https://github.com/openemr/openemr/stargazers) |
 | **[medplum/medplum](https://github.com/medplum/medplum/stargazers)** | Headless open-source developer platform for healthcare with FHIR server, SMART-on-FHIR, and custom CDS bot execution infrastructure. | [<img src="https://img.shields.io/github/stars/medplum/medplum?style=social&color=white" alt="Medplum Stars"/>](https://github.com/medplum/medplum/stargazers) |
